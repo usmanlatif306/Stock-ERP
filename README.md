@@ -14,21 +14,25 @@ The best script for building the modern web fintech application.
 -   Category
 -   Brand
 -   Units
+  <br>
     **Adjustment**
 -   All Adjustment
 -   Create Adjustment
-    **Quotations**
+  **Quotations**
 -   All Quotations
 -   Create Quotation
-    **Purchases**
+<br>
+  **Purchases**
 -   All Purchases
 -   Create Purchase
-    **Sales**
+  <br>
+  **Sales**
 -   All Sales
 -   Create Sale
 -   POS
 -   Shipment
-    **HRM**
+<br>
+  **HRM**
 -   Company
 -   Departments
 -   Designations
@@ -37,18 +41,22 @@ The best script for building the modern web fintech application.
 -   Attendance
 -   Leave Request
 -   Holidays
-    **Transfers**
+<br>
+  **Transfers**
 -   All Transfers
 -   Create Transfer
-    **Expenses**
+<br>
+  **Expenses**
 -   All Expenses
 -   Create Expense
 -   Expense Category
-    **People**
+<br>
+  **People**
 -   Customers
 -   Suppliers
 -   Users
-    **Reports**
+<br>
+  **Reports**
 -   Payments
 -   Profit and Loss
 -   Product Quantity Alert
@@ -64,7 +72,8 @@ The best script for building the modern web fintech application.
 -   Top Selling Products
 -   Best Customers
 -   User Reports
-    **Settings**
+<br>
+  **Settings**
 -   System Settings
 -   SMS Settings
 -   SMS Templates
