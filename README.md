@@ -6,85 +6,75 @@ Stock ERP is Stock Menagement System With POS.
 
 The best script for building the modern web fintech application.
 
-**Products**
-
--   All Prouducts
--   Create Product
--   Print Labels
--   Category
--   Brand
--   Units
-  <br>
-    **Adjustment**
--   All Adjustment
--   Create Adjustment
-  **Quotations**
--   All Quotations
--   Create Quotation
-<br>
-  **Purchases**
--   All Purchases
--   Create Purchase
-  <br>
-  **Sales**
--   All Sales
--   Create Sale
--   POS
--   Shipment
-<br>
-  **HRM**
--   Company
--   Departments
--   Designations
--   Office Shifts
--   Employees
--   Attendance
--   Leave Request
--   Holidays
-<br>
-  **Transfers**
--   All Transfers
--   Create Transfer
-<br>
-  **Expenses**
--   All Expenses
--   Create Expense
--   Expense Category
-<br>
-  **People**
--   Customers
--   Suppliers
--   Users
-<br>
-  **Reports**
--   Payments
--   Profit and Loss
--   Product Quantity Alert
--   Warehouse Report
--   Stock Report
--   Product Report
--   Sale Report
--   Product Sale Report
--   Purchase Report
--   Product Purchases Report
--   Customer Report
--   Supplier Report
--   Top Selling Products
--   Best Customers
--   User Reports
-<br>
-  **Settings**
--   System Settings
--   SMS Settings
--   SMS Templates
--   Mail Settings
--   Email Templates
--   POS Settings
--   Payment Gateway
--   Group Permission
--   Warehouses
--   Currency
--   Backup
+-  **Products**
+    -   All Prouducts
+    -   Create Product
+    -   Print Labels
+    -   Category
+    -   Brand
+    -   Units
+-   **Adjustment**
+    -   All Adjustment
+    -   Create Adjustment
+-  **Quotations**
+    -   All Quotations
+    -   Create Quotation
+-  **Purchases**
+    -   All Purchases
+    -   Create Purchase
+-  **Sales**
+    -   All Sales
+    -   Create Sale
+    -   POS
+    -   Shipment
+-   **HRM**
+    -   Company
+    -   Departments
+    -   Designations
+    -   Office Shifts
+    -   Employees
+    -   Attendance
+    -   Leave Request
+    -   Holidays
+-  **Transfers**
+    -   All Transfers
+    -   Create Transfer
+-  **Expenses**
+    -   All Expenses
+    -   Create Expense
+    -   Expense Category
+-  **People**
+    -   Customers
+    -   Suppliers
+    -   Users
+-  **Reports**
+    -   Payments
+    -   Profit and Loss
+    -   Product Quantity Alert
+    -   Warehouse Report
+    -   Stock Report
+    -   Product Report
+    -   Sale Report
+    -   Product Sale Report
+    -   Purchase Report
+    -   Product Purchases Report
+    -   Customer Report
+    -   Supplier Report
+    -   Top Selling Products
+    -   Best Customers
+    -   User Reports
+-  **Settings**
+    -   System Settings
+    -   SMS Settings
+    -   SMS Templates
+    -   Mail Settings
+    -   Email Templates
+    -   POS Settings
+    -   Payment Gateway
+    -   Group Permission
+    -   Warehouses
+    -   Currency
+    -   Backup
 
 -   **And Much More**
 
