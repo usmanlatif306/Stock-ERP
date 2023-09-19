@@ -1,0 +1,206 @@
+* {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: SourceSansPro;
+  src: url(SourceSansPro-Regular.ttf);
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #0087c3;
+  text-decoration: none;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+body {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  min-height: 100vh;
+  color: #000000;
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-family: SourceSansPro;
+}
+
+header {
+  padding: 10px 0;
+  margin-bottom: 0px;
+}
+
+#logo {
+  float: left;
+  margin-top: 10px;
+}
+
+#logo img {
+  height: 70px;
+}
+.delivery {
+  float: right;
+  text-align: right;
+  background-color: rgb(175, 175, 175);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
+  padding: 5px 10px;
+  box-shadow: 4px 5px;
+  text-align: center;
+}
+.page {
+  margin-top: -10px;
+}
+
+#details {
+  margin-bottom: 10px;
+}
+
+#client {
+  float: left;
+}
+
+#client .to {
+  color: #000000;
+  font-size: large;
+}
+
+h3.name {
+  margin-top: 8px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+div.name {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+#invoice {
+  float: right;
+  text-align: left;
+}
+
+#invoice h4 {
+  color: #000000;
+  line-height: 1em;
+  font-weight: 600;
+  margin: 10px;
+}
+#invoice h4 span {
+  color: #000000;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 1px;
+}
+
+#invoice .date {
+  font-size: 1.1em;
+  color: #000000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 0px !important;
+}
+
+table tr:nth-child(2n-1) td {
+  background: #ffffff;
+}
+
+table th,
+table td {
+  text-align: center;
+}
+
+table th {
+  padding: 5px 20px;
+  color: #000000;
+  border-bottom: 1px solid #000000;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+table .service {
+  text-align: center;
+}
+table .desc {
+  text-align: left;
+}
+
+table td {
+  padding: 10px 5px 5px;
+  text-align: right;
+}
+
+table td.unit,
+table td.qty,
+table td.total {
+  text-align: center;
+}
+
+table td.grand {
+  border-top: 1px solid #000000;
+}
+.table-sm th,
+.table-sm td {
+  padding: 5px !important;
+}
+.grandHr {
+  background-color: #000000;
+}
+.totalgrand {
+  background-color: rgb(175, 175, 175);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: 4px 5px;
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 60px;
+  margin-top: 10px;
+}
+
+.column {
+  float: left;
+  width: 31%;
+  padding: 10px;
+  text-align: center;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
+.column1 {
+  float: left;
+  width: 33%;
+  padding: 10px;
+  text-align: left;
+}
+.column1 p {
+  padding: 0;
+  margin: 0;
+  padding-top: 5px;
+}
+.column2 {
+  float: left;
+  width: 100.1%;
+  padding: 10px;
+  text-align: left;
+  height: 5px;
+}
